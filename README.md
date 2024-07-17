@@ -1,2 +1,4 @@
 # Project2
-The motivational page using html and css
+The motivational page uses HTML and CSS.
+The image is queen in the film "Game of Thrones". 
+It is mainly a meme!!!
